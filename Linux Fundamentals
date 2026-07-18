@@ -1,0 +1,19 @@
+# What is Linux?
+  -Linux is a Operting system just like Mac-OS and Windows that is more light in weight.
+  -Linux is an umbrella term for many Operating systems.
+
+ Commands                    Description
+1. echo          -            Output any text we provide
+2. whoami        -            Finds out what user are we logged in as
+3. ls            -            Listing directries/files
+4. cd            -            Change directory
+5. cat           -            Concatenate
+6. pwd           -            Print Working directory
+7. find          -            Search Files
+8. grep          -            Search contents of a file with a specific value
+9. grep -R       -            Recrusively
+10. &            -            Run commands in background
+11. &&           -            Run multiple commands at once
+12. >            -            This operator is Redirector 
+!3 >>            -            Same as > but appends insteaed of replacing
+14
