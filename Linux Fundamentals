@@ -15,5 +15,11 @@
 10. &            -            Run commands in background
 11. &&           -            Run multiple commands at once
 12. >            -            This operator is Redirector 
-!3 >>            -            Same as > but appends insteaed of replacing
-14
+!3. >>           -            Same as > but appends insteaed of replacing
+14. ssh          -            Allows remote execution of the commands
+15. man          -            Manual
+16. touch        -            Create file
+17. mkdir        -            Create folder
+18. cp           -            Copy
+19. mv           -            Remove
+20. file         -            Determine type of file
