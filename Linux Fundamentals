@@ -2,6 +2,14 @@
   -Linux is a Operting system just like Mac-OS and Windows that is more light in weight.
   -Linux is an umbrella term for many Operating systems.
 
+# Nano :-
+  It is easy to get started with Nano! To create or edit a file using nano, 
+  we simply use nano filename -- replacing "filename" with the name of the file you wish to edit.
+
+# VIM
+  VIM is a much more advanced text editor. Whilst you're not expected to know all advanced features,
+  it's helpful to mention it for powering up your Linux skills.
+
  Commands                    Description
 1. echo          -            Output any text we provide
 2. whoami        -            Finds out what user are we logged in as
